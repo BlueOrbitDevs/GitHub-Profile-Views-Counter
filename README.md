@@ -95,12 +95,19 @@ You can use any valid HEX color or one of the predefined names:
 ![](https://profileviews.blueorbitdevs.workers.dev/?username=your-github-username&label=PROFILE+VIEWS)
 ```
 
+> [!NOTE]
+>
+> Replace whitespace with `+` character in multi-word labels.
+
 ---
 
-### Base number (display only)
+### Base number
 
-Adds a base number to the **display only** (not stored in database):
+You can provide a `base` number to add to the counter.
+This is useful if you are migrating from another service.
 
+For example, a user with 1000 views on another service who wants to migrate to GHPVC will use the following url
+to ensure the 1000 views are accounted for:
 ```md
 ![](https://profileviews.blueorbitdevs.workers.dev/?username=your-github-username&base=1000)
 ```
