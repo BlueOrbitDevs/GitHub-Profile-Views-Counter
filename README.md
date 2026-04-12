@@ -1,6 +1,6 @@
 # GitHub Profile Views Counter
 
-![GitHub Profile Views Counter](https://raw.githubusercontent.com/BlueOrbitDevs/GitHub-Profile-Views-Counter/refs/heads/main/img/GitHub-Profile-Views-Counter.png)
+![GitHdub Profile Views Counter](https://raw.githubusercontent.com/BlueOrbitDevs/GitHub-Profile-Views-Counter/refs/heads/main/img/GitHub-Profile-Views-Counter.png)
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
